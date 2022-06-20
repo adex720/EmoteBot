@@ -35,7 +35,7 @@ import java.util.Set;
  */
 public class DiscordListener extends ListenerAdapter {
 
-    public static final String GITHUB_LINK = "";
+    public static final String GITHUB_LINK = "https://github.com/adex720/EmoteBot";
 
     private static final long ADEX = 560815341140181034L;
 
